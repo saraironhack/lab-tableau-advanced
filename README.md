@@ -4,7 +4,7 @@
 
 ### Learning Outcomes
 
-Upon completion of this lab, you will be able to
+Upon completion of this lab, you will be able to;
 
 - Create a Choropleth map to analyze geographical data.
 - Construct and interpret a regression plot to understand the relationship between two quantitative variables.
